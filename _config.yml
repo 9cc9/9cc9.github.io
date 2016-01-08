@@ -1,12 +1,12 @@
 markdown: kramdown
-pygments: true
+highlighter: true
 safe: false
 permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: Your Site Name
-host: yourdomain.com
+name: 9cc9的博客
+host: http://9cc9.github.io/
 desc: Some description of your site.
 
 custom:
