@@ -256,8 +256,11 @@ BeanCopier$Generator#create就稍微复杂一点了：
 {% endhighlight %}
 
 查看源码，可以整理出接下来调用链路大致如下:<br>
+
 > KeyFactory#create
+
 > >  -> KeyFactory$Generator#create
+
 > > > -> AbstractClassGenerator#create<br>
 
 OK，看到了AbstractClassGenerator#create方法，重头戏来了。
