@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "CGLIB中BeanCopier源码实现"
+description: "本文将简要介绍CGLIB代码包结构以及核心类的基本功能，然后通过介绍BeanCopier的使用例子，将其作为引子对相关源码实现进行分析。"
 date:   2016-01-11 10:42:07 +0800
 categories: jekyll update
 ---
