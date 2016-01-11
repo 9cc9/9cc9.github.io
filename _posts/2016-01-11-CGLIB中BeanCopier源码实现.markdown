@@ -602,5 +602,11 @@ PS：之所以要为类二重写hashCode和equals方法，是因为类二的实�
 4. http://cglib.sourceforge.net/apidocs/index.html
 
 
+<!-- 多说评论框 start -->
+<div class="ds-thread" data-thread-key="000001" data-title="CGLIB中BeanCopier源码实现" data-url="http://9cc9.github.io/jekyll/update/2016/01/11/CGLIB%E4%B8%ADBeanCopier%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0.html"></div>
+<!-- 多说评论框 end -->
+
+
+
 
 
